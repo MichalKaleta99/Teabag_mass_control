@@ -1,5 +1,5 @@
 # Teabag_mass_control - R Twining and Company Sp. z o.o.
-Teabag weight and packaging tare control system
+Teabag weight and packaging tare control system made for R Twining and Company Sp. z o.o.
 
 # Short project description
 
@@ -26,6 +26,16 @@ Customers need was that each measurement was saved to the database - after colle
 
 To inform machine operators I used an HMI app written in C# (which was created before my system so i only had to exchange data with it) and also a signal lamp. Depending on the needs that operator had to do (taring, measuring, time expired etc.) the lamp flashed at different frequencies and application looked a little different - relevant information about an existing need was displayed at the screen.
 
+
+# Training and instruction of use (manual)
+
+At the end of the project I made a instruction of use which you can find in my repo. Factory for which I prepared the project locates itself in Poland so obviously instruction and algorithm is made in polish language.
+
+Beyond the manual itself, to make that project as easy as possible for machine operators I performed a training about the control sytem - I listened and answered all possible questions and once everyone was familiar with system the project was done.
+
+# Summary
+
+The project itself has been fully completed and runned on the production line.
 
 
 
