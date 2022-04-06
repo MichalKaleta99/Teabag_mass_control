@@ -1,6 +1,11 @@
 # Teabag_mass_control - R Twining and Company Sp. z o.o.
 Teabag weight and packaging tare control system made for R Twining and Company Sp. z o.o.
 
+# Copyrights
+
+Due to copyrights of the company in which I worked I assume that I can not paste whole project at public repository.
+Moreover in a project that was written in Tia Portal v16 there were sensitive data such as ip addresses of the drivers and scales. That's why I made up my mind not to insert the project here.
+
 # Short project description
 
 The goal of the project was to enable machine operators to weigh the content of one teabag and to carry out the packaging tare. Then PLC had to check if the measurement was good (was within tolerance from imposed mass setpoint) or bad (was out of tolerance).
